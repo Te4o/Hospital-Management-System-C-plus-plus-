@@ -1,0 +1,16 @@
+﻿Build started 1/27/2016 9:39:01 AM.
+     1>Project "E:\Te4o 2\ТУ - СОФИЯ\Семестър № 5\Програмни Езици\Курсова\Hospital Management\Hospital Management\Hospital Management.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Hospital Management.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Hospital Management.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Hospital Management.cpp"
+         Hospital Management.cpp
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Te4o 2\ТУ - СОФИЯ\Семестър № 5\Програмни Езици\Курсова\Hospital Management\Debug\Hospital Management.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Te4o 2\ТУ - СОФИЯ\Семестър № 5\Програмни Езици\Курсова\Hospital Management\Debug\Hospital Management.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Te4o 2\ТУ - СОФИЯ\Семестър № 5\Програмни Езици\Курсова\Hospital Management\Debug\Hospital Management.lib" /MACHINE:X86 "Debug\Hospital Management.obj"
+         Debug\stdafx.obj
+         Hospital Management.vcxproj -> E:\Te4o 2\ТУ - СОФИЯ\Семестър № 5\Програмни Езици\Курсова\Hospital Management\Debug\Hospital Management.exe
+     1>Done Building Project "E:\Te4o 2\ТУ - СОФИЯ\Семестър № 5\Програмни Езици\Курсова\Hospital Management\Hospital Management\Hospital Management.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.69
